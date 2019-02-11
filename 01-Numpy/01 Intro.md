@@ -29,3 +29,12 @@ You can exit the environment with the `deactivate` command. Doing so will change
 You can install packages in your virtual env with `pip`, `conda` or any of the other package tools python supports. I typically choose `pip` to install, but anaconda does support many packages in their mangagement system.
 
 I've provided a `requirements.txt` file, you can install all the required packages with `pip install -r requirements.txt`
+
+### Starting Jupyter
+
+Once everything has been installed, you can start jupyter
+
+`$ jupyter notebook`
+
+It should open your browser. You can now navigate to the nodebook and begin!
+
